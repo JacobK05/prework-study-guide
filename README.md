@@ -3,7 +3,7 @@
 ## Description
 
 
-Starting web development is not an easy task gather and keeping all of the new information organized was a hassle. I created a study guide webssite to help me track and succsfull keep all the infomation organized. The website did exactly that seperating all the information in the there own catagory, with all the notes recorded. Also givig me easy access. During this project I learned the multiple types of software and there prurpuses. How to best organize files, create branches from main to featured. How to transfer your local code to git hub, and merging your feature branches to your main with various git hub and terminal commands.
+Starting web development is not an easy task gather and keeping all of the new information organized was a hassle. I created a study guide website to help me track and successful keep all the information organized. The website did exactly that separating all the information in the there own category, with all the notes recorded. Also giving me easy access. During this project I learned the multiple types of software and there purposes. How to best organize files, create branches from main to featured. How to transfer your local code to git hub, and merging your feature branches to your main with various git hub and terminal commands.
 
 ## Installation
 
@@ -20,7 +20,7 @@ N/A
 ## License
 MIT License
 
-Copyright (c) 2023 JaocbK05
+Copyright (c) 2023 JacobK05
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
